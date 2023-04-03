@@ -55,7 +55,7 @@ DATE_S=$(date +"%T")
 # Send the Message on Telegram
 echo -e \
 "
-🦊 OrangeFox Recovery CI
+🦊 OrangeFox Recovery CII
 
 ✅ Build Completed Successfully!
 
